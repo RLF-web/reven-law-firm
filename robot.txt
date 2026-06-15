@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rlf-web.github.io/reven-law-firm/sitemap.xml
+Sitemap: https://rlf-web.github.io/revan-law-firm/sitemap.xml
