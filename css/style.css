@@ -137,3 +137,12 @@ flex-wrap:wrap;
 justify-content:center;
 }
 }
+.team-link{
+    text-decoration:none;
+    color:inherit;
+    display:block;
+}
+
+.team-link .card{
+    cursor:pointer;
+}
