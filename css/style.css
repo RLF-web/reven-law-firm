@@ -44,18 +44,17 @@ margin-left:25px;
 }
 
 .hero{
-height:90vh;
-background:
-linear-gradient(rgba(0,0,0,.65),rgba(0,0,0,.65)),
-url('../assets/courthouse.jpg');
-background-size:cover;
-background-position:center;
-display:flex;
-align-items:center;
-justify-content:center;
-text-align:center;
+    min-height:100vh;
+    background:
+    linear-gradient(rgba(0,0,0,.65),rgba(0,0,0,.65)),
+    url('../assets/courthouse.jpg');
+    background-size:cover;
+    background-position:center;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
 }
-
 .hero h2{
 font-size:70px;
 font-family:'Playfair Display',serif;
