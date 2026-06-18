@@ -223,3 +223,24 @@ justify-content:center;
     line-height:1.8;
     color:#d1d5db;
 }
+.hero{
+    text-align:center !important;
+}
+
+.overlay{
+    text-align:center !important;
+}
+
+.hero h2{
+    text-align:center !important;
+}
+
+.hero p{
+    text-align:center !important;
+    margin-left:auto !important;
+    margin-right:auto !important;
+}
+
+.btn{
+    display:inline-block !important;
+}
